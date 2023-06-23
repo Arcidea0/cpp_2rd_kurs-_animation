@@ -1,0 +1,3 @@
+﻿  kursayinaaaa.cpp
+C:\Users\gevor\OneDrive\Рабочий стол\AMIN\repos\kursayinaaaa\kursayinaaaa\kursayinaaaa.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  kursayinaaaa.vcxproj -> C:\Users\gevor\OneDrive\Рабочий стол\AMIN\repos\kursayinaaaa\x64\Debug\kursayinaaaa.exe
