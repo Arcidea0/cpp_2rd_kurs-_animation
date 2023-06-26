@@ -1,1 +1,1 @@
-# cpp_2rd_kurs-_animation
+# cpp_2rd_kurs_animation
